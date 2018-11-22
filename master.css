@@ -1,0 +1,18 @@
+.leftdiv{
+    float: left;
+    background-color:lightpink;
+}
+
+.centerdiv{
+    background-color: yellow;
+    clear:both;
+}
+.rightdiv{
+    float: right;
+    background-color:lightpink;
+    clear:both;
+}
+
+h1{
+    text-align: center;
+}
